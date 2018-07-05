@@ -4,7 +4,7 @@ A convenience library for supporting authenticated requests.
 
 ### Configuration
 
-```json
+```
   db {
     sql {
       driver      = com.mysql.jdbc.Driver
